@@ -43,7 +43,7 @@ pip install requests pystyle colorama
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/broFR1K/AVVISPW.git
    cd your-repo-name
    ```
 
