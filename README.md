@@ -44,7 +44,7 @@ pip install requests pystyle colorama
 1. **Клонируйте репозиторий**:
    ```bash
    git clone https://github.com/broFR1K/AVVISPW.git
-   cd your-repo-name
+   cd AVVISPW
    ```
 
 2. **Установите зависимости**:
